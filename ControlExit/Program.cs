@@ -13,7 +13,7 @@
            exitCommand = Console.ReadLine();
             if (exitCommand == "exit")
             {
-                break;
+                Console.WriteLine("Заходите еще!");
             }
         }
     }
